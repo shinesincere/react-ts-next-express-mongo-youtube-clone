@@ -1,4 +1,2 @@
-*.md
-z.md
 server/z.md
-/server/node_modules
+server/node_modules
