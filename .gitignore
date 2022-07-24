@@ -1,3 +1,4 @@
 *.md
 z.md
+/z.md
 /server/node_modules
