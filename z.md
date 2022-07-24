@@ -1,13 +1,10 @@
 > git init
 > code .gitignore
 > git add .
-react-ts-next-express-mongo-youtube-clone>git commit -m 'initial commit'
-react-ts-next-express-mongo-youtube-clone>git branch -M main
-react-ts-next-express-mongo-youtube-clone>git remote add origin https://github.com/shinesincere/react-ts-next-express-mongo-youtube-clone
-react-ts-next-express-mongo-youtube-clone>git push -u origin main
-
-
-
+> git commit -m 'initial commit'
+> git branch -M main
+> git remote add origin https://github.com/shinesincere/react-ts-next-express-mongo-youtube-clone
+> git push -u origin main
 
 > mkdir server
 > cd server
