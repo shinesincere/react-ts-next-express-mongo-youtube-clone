@@ -3,7 +3,7 @@
 > git add .
 > git commit -m 'initial commit'
 > git branch -M main
-> git remote add origin https://github.com/shinesincere/shinesincere-react-ts-next-express-mongo-youtube-clone.git
+> git remote add origin https://github.com/shinesincere/react-ts-next-express-mongo-youtube-clone.git
 > git push -u origin main
 
 > mkdir server
